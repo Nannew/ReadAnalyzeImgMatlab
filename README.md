@@ -69,7 +69,7 @@ V(122, 122, 122) = 200;
 ```
 
 
-## Methods to load the images
+## Methods to save the images
 
 1. Save image with [**Tools for NIfTI and ANALYZE image**](https://www.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image) by Jimmy Shen
 
