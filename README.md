@@ -6,7 +6,6 @@
   * A header file (*.hdr*)
 * Corresponding 3rd party packages
 
-(an image file *.img* and a header file *.hdr*)
 
 ## Methods to load the images
 1. Load image with [**Read Medical Data 3D**](https://www.mathworks.com/matlabcentral/fileexchange/29344-read-medical-data-3d) by Dirk-Jan Kroon
